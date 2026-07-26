@@ -1,0 +1,20 @@
+# Deep learning / computer vision
+ultralytics==8.4.41
+torch==2.10.0
+torchvision
+opencv-python
+easyocr
+
+# Data handling / utilities
+numpy
+pandas
+Pillow
+PyYAML
+
+# Visualization / evaluation
+matplotlib
+seaborn
+scikit-learn
+
+# RFID / serial communication (adjust according to your hardware setup)
+pyserial
