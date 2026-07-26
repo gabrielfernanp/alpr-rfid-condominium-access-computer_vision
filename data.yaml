@@ -1,0 +1,8 @@
+path: /kaggle/working/dataset_yolo
+train: training/images
+val: validation/images
+test: testing/images
+nc: 2
+names:
+- plate_mercosur
+- plate_brazilian
