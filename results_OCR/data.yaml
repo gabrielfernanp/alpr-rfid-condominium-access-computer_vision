@@ -1,0 +1,9 @@
+names:
+  0: car_mercosur
+  1: car_brazilian
+  2: motorcycle_mercosur
+  3: motorcycle_brazilian
+path: /kaggle/input/datasets/joaomarcosgil/dataset-tcc/dataset
+test: testing/images
+train: training/images
+val: validation/images
